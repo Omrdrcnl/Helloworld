@@ -1,0 +1,9 @@
+Fonts used in this design:
+
+Font: WoodenNickelBlack
+Author: Nick's Fonts
+Url: http://www.fontsquirrel.com/fonts/woodennickelblack
+
+Font: Poppins
+Author: Indian Type Foundry
+Url: https://www.fontsquirrel.com/fonts/poppins
